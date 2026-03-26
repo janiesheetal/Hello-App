@@ -51,7 +51,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.1</version>
                 <configuration>
-                    <mainClass>HelloAppUC6</mainClass>
+                    <mainClass>HelloAppUC7</mainClass>
                     <!-- Default argument if none provided -->
                     <arguments>
                         <argument>World</argument>
@@ -67,7 +67,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>HelloAppUC6</mainClass>
+                            <mainClass>HelloAppUC7</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
